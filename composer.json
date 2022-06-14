@@ -1,0 +1,17 @@
+{
+    "name": "mmtgithub/test",
+    "description": "this is a test",
+    "type": "project",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Mmtgithub\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmt"
+        }
+    ],
+    "require": {}
+}
